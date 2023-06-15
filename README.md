@@ -1,4 +1,4 @@
-<img stc="" style="width: 100%"></img>
+<img src="127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png" style="width: 100%"></img>
 # <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" style="height: 2rem; "> About me
 
 Hi my name is NguyeN Viet Kim (Kim Curry), a 2nd year student at VNUHCM - University of Science, currently pursuing a major in Software Engineering. 
