@@ -22,19 +22,17 @@
 <br>
 
 <div align=center>
+<!--   <a href="#" title="Kim Nguyen">
+    <img align="top center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGC31&theme=transparent&hide_border=true")
+  </a> -->
   <a href="#" title="Kim Nguyen">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KGC31&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img align="top center" width="434" src="https://github-readme-stats.vercel.app/api?username=KGC31&show_icons=true&theme=transparent&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Kim Nguyen">
-    <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=KGC31&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
+  <a>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=KGC31&theme=tokyonight-duo&hide_border=true">
+ </a>
 </div>
 
-<br>
-
-<div align=center>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KGC31&theme=tokyonight-duo&hide_border=true">
-</div>
 
 <br>
 
@@ -44,18 +42,18 @@
 
 <br>
 
-<p align="center">
-<a href="https://github.com/KGC31/Caro-game-HCMUS-PROGRAMMING-TECHNIQUE-PROJECT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KGC31&repo=Caro-game-HCMUS-PROGRMMING-TECHNIQUE-PROJECT" />
+<div align="center">
+ <a href="https://github.com/KGC31/Pong-Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KGC31&theme=transparent&repo=Pong-Game" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/KGC31/CBL-BC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KGC31&theme=transparent&repo=CBL-BC" />
 </a>
-</p>
+</div>
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
-<p align="center"><img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50"> <b>THANKS FOR VISITTING </b><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"width="40" /></p>
+<p align="center"><b>THANKS FOR VISITTING </b></p>
