@@ -51,6 +51,15 @@
 </a>
 </div>
 
+<div align="center">
+ <a href="https://github.com/KGC31/Portfolio-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KGC31&theme=transparent&repo=Portfolio-website" />
+</a>
+<a href="https://github.com/KGC31/SE-HCMUS-PROJECT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KGC31&theme=transparent&repo=SE-HCMUS-PROJECT" />
+</a>
+</div>
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
